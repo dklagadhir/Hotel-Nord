@@ -6,4 +6,4 @@
 
 
 # Hotel-Website
- https://dklagadhir.github.io/Hotel-Website/
+ https://dklagadhir.github.io/Hotel-Nord/
